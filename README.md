@@ -1,5 +1,6 @@
 # A NOSQL Database implementation for a Live Streaming Video Platform
 
+<<<<<<< HEAD
 This is an implementation of a Live Streaming Video Platform using Cassandra. We took inspiration from Twitch.tv and we created a dataset in order to reproduce the distribution of the data across clusters.
 The Dataset is not so big but you can easily generate more data and spread it out across more servers with different number of replicas.
 
@@ -37,3 +38,8 @@ Otherwise you can check inside the **Workload** folder and you will find a **wor
 
 * **Riccardo Basso** - *Università degli studi di Genova* - Advanced Data Management 2017-2018
 * **Simone Hu** - *Università degli studi di Genova* - Advanced Data Management 2017-2018
+=======
+## Authors
+
+* **Riccardo Basso** - Università degli studi di Genova - *Advanced Data Management 2017-2018*
+>>>>>>> 59d89c043136f6834c2e858f75cb37d2e31ac560
